@@ -1,6 +1,6 @@
 // CaféLab Industria · service worker
 // Al publicar una versión nueva de index.html, cambia CACHE_NAME (por ejemplo, de -I1 a -I2) y VERSION en index.html.
-const CACHE_NAME = "cafeind-2026.10.13-I1";
+const CACHE_NAME = "cafeind-2026.10.13-I2";
 const CORE = ["./", "index.html", "manifest.json", "icon-192.png", "icon-512.png"];
 const CDN = [
   "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js",
